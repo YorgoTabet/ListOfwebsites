@@ -4,21 +4,21 @@
 <h3>ALIENWARE PRODUCT LANDING PAGE:</h3>
 Basic Responsive CSS and HTML as part of my responsive web design Certification
 <br>
-<a href='https://yorgotabet.github.io/AlienwareLandingPage/'>View Website</a>
+<a target="_blank" href='https://yorgotabet.github.io/AlienwareLandingPage/'>View Website</a>
 
 <br>
 <br>
   <h3>LIST OF STUDENTS:</h3>
 List of students with angular routing, angular material, auxiliary routing and sorting for the table
 <br>
-<a href='https://yorgotabet.github.io/StudentList/'>View Website</a>
+<a target="_blank"  href='https://yorgotabet.github.io/StudentList/'>View Website</a>
 
 <br>
 <br>
 <h3>GPS TRACKING PAGE:</h3>
 Web app with angular that allows you to upload and track runs live on the map. The app also adds your total miles and number of hikes completed
 <br>
-<a href='https://yorgotabet.github.io/RouteTracker/'>View Website</a>
+<a  target="_blank" href='https://yorgotabet.github.io/RouteTracker/'>View Website</a>
 
 <br>
 <br>
@@ -26,42 +26,42 @@ Web app with angular that allows you to upload and track runs live on the map. T
 <h3>PHOTO GALLERY:</h3>
  Photo Gallery app with angular, that filters data based on the chosen filter in the dashboard
 <br>
-<a href='https://yorgotabet.github.io/RouteTracker/'>View Website</a>
+<a  target="_blank" href='https://yorgotabet.github.io/RouteTracker/'>View Website</a>
 
 <br>
 <br>
 <h3>ANIME LIST APP:</h3>
  This app was an example of angularizing a web template, it also connects to a NodeJS backend hosted on Heroku
 <br>
-<a href='https://yorgotabet.github.io/AnimeWeb/'>View Website</a>
+<a  target="_blank" href='https://yorgotabet.github.io/AnimeWeb/'>View Website</a>
 
 <br>
 <br>
 <h3>NODEJS TEST:</h3>
 This web page was made to test the functionality of a backend hosted on Heroku that reads an excel sheet, sends messages to according numbers via Twilio and returns data
 <br>
-<a href='https://yorgotabet.github.io/XLSXAPITEST/'>View Website</a>
+<a  target="_blank" href='https://yorgotabet.github.io/XLSXAPITEST/'>View Website</a>
 
 <br>
 <br>
 <h3>WATER REMINDER:</h3>
 Water Reminder app made to practice CSS animations, where I made an SVG image from scratch and designed it in a way to layer it so it looks like waves are continuously moving
 <br>
-<a href='https://yorgotabet.github.io/waterReminder/'>View Website</a>
+<a  target="_blank" href='https://yorgotabet.github.io/waterReminder/'>View Website</a>
 
 <br>
 <br>
 <h3>COUNTRY WEATHER:</h3>
 An app that Consumes 2 APIs, one to retrieve a list of all countries, and the second to fetch the weather in a selected country on Demand
 <br>
-<a href='https://yorgotabet.github.io/GetCountryWeather'>View Website</a>
+<a  target="_blank" href='https://yorgotabet.github.io/GetCountryWeather'>View Website</a>
 
 <br>
 <br>
 <h3>CALCULATOR APP:</h3>
 My First Web application, a basic calculator app
 <br>
-<a href='https://yorgotabet.github.io/TestCalculator/'>View Website</a>
+<a  target="_blank" href='https://yorgotabet.github.io/TestCalculator/'>View Website</a>
 
 <br>
 <br>
