@@ -9,8 +9,7 @@ My First app made using React library.
 <br>
 <br>
 
-<h1 align='center'> Yorgo Tabet's Protfolio </h1>
-<br>
+
 <h3>ALIENWARE PRODUCT LANDING PAGE:</h3>
 Basic Responsive CSS and HTML as part of my responsive web design Certification
 <br>
