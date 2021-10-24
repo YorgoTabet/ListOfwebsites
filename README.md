@@ -1,7 +1,7 @@
 
 <h1 align='center'> Yorgo Tabet's Protfolio </h1>
 <br>
-<h3>Burger Builder App (ReactJS):</h3>
+<h3>BURGER BUILDER APP (ReactJS):</h3>
 Practice app made using React library.
 <br>
 <a target="_blank" href='https://react-my-bur-cb04d.web.app/'>View Website</a>
@@ -9,7 +9,7 @@ Practice app made using React library.
 <br>
 <br>
 
-<h3>List Of Student (ReactJS):</h3>
+<h3>LIST  OF STUDENTS (ReactJS):</h3>
 Practice app made using React library.
 <br>
 <a target="_blank" href='https://yorgotabet.github.io/ReactListOfStdudents/'>View Website</a>
