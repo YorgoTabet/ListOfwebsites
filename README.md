@@ -33,6 +33,14 @@ Basic Responsive CSS and HTML as part of my responsive web design Certification
 
 <br>
 <br>
+<h3>DOCUMENTATION PAGE:</h3>
+Responsive CSS and HTML Documentation page as part of my responsive web design Certification
+<br>
+<a target="_blank" href='https://yorgotabet.github.io/DocumentationPage/'>View Website</a>
+
+<br>
+<br>
+
   <h3>LIST OF STUDENTS:</h3>
 List of students with angular routing, angular material, auxiliary routing and sorting for the table
 <br>
