@@ -1,5 +1,5 @@
 
-<h1 align='center'> Yorgo Tabet's Protfolio </h1>
+<h1 align='center'> Yorgo Tabet's Portfolio </h1>
 <br>
 <h3>BURGER BUILDER APP (ReactJS):</h3>
 Practice app made using React library.
